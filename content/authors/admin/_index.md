@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: Wolverine Studios
+  - name: Wolverine Soft
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
