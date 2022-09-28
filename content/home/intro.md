@@ -28,12 +28,12 @@ A re-implementation of the first dungeon of the original Legend of Zelda game by
 
 Team pAncAkE:
 
-- Yuchen Jiang
-- Jiayi Pan
+Yuchen Jiang
+Jiayi Pan
 
 ## Control
 
-- WASD: Move
-- X/Z: Primary/Secondary Weapon
-- Space: Swap Secondary Weapon
-- Tab: Swap Between Classic Zelda and One with New Game Design
+WASD: Move
+X/Z: Primary/Secondary Weapon
+Space: Swap Secondary Weapon
+Tab: Swap Between Classic Zelda and One with New Game Design
