@@ -20,9 +20,9 @@ author: admin
 
 <iframe frameborder="0" src="https://itch.io/embed-upload/6454115?color=333333" allowfullscreen="" width="640" height="380"><a href="https://jiayi-pan.itch.io/roll-a-ball">Play Roll-A-Ball on itch.io</a></iframe>
 
-## About
+## Re: Zeroda
 
-A re-implementation of the first dungeon of the original Legend of Zelda game by Unity, with a new weapon, scene and many secrets!
+A re-implementation of the first dungeon of the original Legend of Zelda game by Unity. Tardis included.
 
 ## People
 
