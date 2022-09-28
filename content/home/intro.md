@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/6567669?color=333333" allowfullscreen="" width="1024" height="1080"><a href="https://jiayi-pan.itch.io/zelda-re-imagined">Play Re: Zeroda on itch.io</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/6568970?color=333333" allowfullscreen="" width="512" height="500"><a href="https://jiayi-pan.itch.io/zeroda">Play Zeroda on itch.io</a></iframe>
 
 ## Re: Zeroda
 
