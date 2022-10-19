@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-<iframe width="552" height="167" frameborder="0" src="https://itch.io/embed/1753072"><a href="https://lighghteeloo.itch.io/tornado">Tornado by LighghtEeloo</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/6684196?color=333333" allowfullscreen="" width="640" height="380"><a href="https://lighghteeloo.itch.io/tornado">Play Tornado on itch.io</a></iframe>
 
 ## Tornado
 
