@@ -14,7 +14,7 @@ image:
   focal_point: ''
 ---
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/6684196?color=333333" allowfullscreen="" width="640" height="380"><a href="https://lighghteeloo.itch.io/tornado">Play Tornado on itch.io</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/6684425?color=333333" allowfullscreen="" width="640" height="380"><a href="https://lighghteeloo.itch.io/tornado">Play Tornado on itch.io</a></iframe>
 
 ## Tornado
 
