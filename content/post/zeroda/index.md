@@ -1,7 +1,7 @@
 ---
 title: "Re: Zeroda"
-subtitle: A Game for p1 in EECS 494
-summary: 
+subtitle: Tardis included.
+summary: A game for p2 in EECS 494
 authors:
   - admin
 tags: []

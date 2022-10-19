@@ -1,7 +1,7 @@
 ---
 title: "Tornado"
-subtitle: A Game for p2 in EECS 494
-summary: 
+subtitle: A swarm of water cubes
+summary: A game for p2 in EECS 494
 authors:
   - admin
 tags: []
@@ -48,6 +48,6 @@ Press ' to reset #cube to 200 (in case there are too many).
 
 Press 1-5 for corresponding levels that were visited.
 
-(Ironically, this might be buggy).
+(Ironically, this might be buggy. Use at your own risk.)
 
 
