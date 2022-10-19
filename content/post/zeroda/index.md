@@ -7,8 +7,8 @@ authors:
 tags: []
 categories: []
 projects: []
-date: '2022-10-19T00:00:00Z'
-lastMod: '2022-10-19T00:00:00Z'
+date: '2022-10-07T00:00:00Z'
+lastMod: '2022-10-07T00:00:00Z'
 image:
   caption: ''
   focal_point: ''
