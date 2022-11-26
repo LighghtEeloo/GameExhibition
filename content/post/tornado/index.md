@@ -18,7 +18,9 @@ image:
 
 ## Tornado
 
-Personal game by LighghtEeloo (Yuchen Jiang).
+Independent game by LighghtEeloo (Yuchen Jiang).
+
+Game Mechanism Idea & Visual Design by Ehaema (Anna Zhou).
 
 Wish you like it.
 
